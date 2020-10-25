@@ -11,10 +11,18 @@ This is a live action murder mystery game that resembles Werewolf, Mafioso, Amon
 - Piezo, if you want it to make a sound
 - Powersource (I used a power bank with 5V / 2.1A output to make the Manager portable)
 
+# How the Manager works and how to set it up
+- The first screen should guide the player to press the button down an keep it pressed. The tasks are only displayed when the button is kept pressed down.
+- Tasks are given to players randomly. They are currently such that they match my game area. Please edit the them to your liking. There are examples in the rules.
+- You can set work shift length in the beginning of the code. A good length to start with is four minutes if you have 10+ players, 3 minutes if you have less.
+- When the first player presses the button, the timer starts to cound down. 
+- When the timer reaches zero, a sound is played and timer resets to original shift length. 
+- A new work shift begins again when a player presses the button.
+
 # Included are also
 - game rules in Finnish
 - game rules in English
-- .DXF files for making a box with a lasercutter from 3mm acrylic, plywood, what ever you want to use. I did not include a hole for installing the button, because your button might be different size than what I used. 
+- .DXF files for making a box with a lasercutter from 3mm acrylic or what ever you want to use. I did not include a hole for installing the button, because your button might be different size than what I used. 
 
 To be done:
 Diagrams for the connections. 
