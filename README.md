@@ -1,5 +1,5 @@
 # Arduino based Manager and a murder mystery game
-This is a live action murder mystery game that resembles Werewolf, Mafioso, AmongUs, Dracula and other games where one player is a traitor and others try to catch him. Arduino project is for a Manager that can distribute tasks to players, counts time and plays a sound when round ends. You don't need it to play the game but if you like to build stuff ... have fun!
+This is a live action murder mystery game that resembles Werewolf, Mafioso, AmongUs, Dracula and other games where one player is a traitor and others try to catch him. Arduino project is for a Manager that can distribute tasks to players, counts time and plays a sound when a workshift (round) ends. You don't need it to play the game but if you like to build stuff ... have fun!
 
 <img src="https://github.com/hautakan/ManagerAndGame/blob/main/TheManager-malli.png?raw=true" width="400">
 
@@ -12,10 +12,10 @@ This is a live action murder mystery game that resembles Werewolf, Mafioso, Amon
 - Powersource (I used a power bank with 5V / 2.1A output to make the Manager portable)
 
 # How the Manager works and how to set it up
-- The first screen should guide the player to press the button down an keep it pressed. The tasks are only displayed when the button is kept pressed down.
+- The first screen should guide the player to press the button down and keep it pressed. The tasks are only displayed when the button is kept pressed down.
 - Tasks are given to players randomly. They are currently such that they match my game area. Please edit the them to your liking. There are examples in the rules.
 - You can set work shift length in the beginning of the code. A good length to start with is four minutes if you have 10+ players, 3 minutes if you have less.
-- When the first player presses the button, the timer starts to cound down. 
+- When the first player presses the button, the timer starts to count down. 
 - When the timer reaches zero, a sound is played and timer resets to original shift length. 
 - A new work shift begins again when a player presses the button.
 
