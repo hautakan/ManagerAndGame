@@ -1,7 +1,7 @@
 # Arduino based Manager and a murder mystery game
 This is a live action murder mystery game that resembles Werewolf, Mafioso, AmongUs, Dracula and other games where one player is a traitor and others try to catch him. Arduino project is for a Manager that can distribute tasks to players and count time. You don't need it to play the game but if you like to build stuff ... have fun!
 
-<img src="https://github.com/hautakan/ManagerAndGame/blob/main/TheManager.jpg" width="400">
+<img src="https://github.com/hautakan/ManagerAndGame/blob/main/TheManager-malli.png?raw=true" width="400">
 
 # To build the Manager you will need
 - Arduino UNO
