@@ -1,5 +1,5 @@
 # The game and an Arduino Manager
-This is a live action murder mystery game that resembles Werewolf, Mafioso, AmongUs, Dracula and other games where one player is a traitor and others try to catch him. Arduino project is for a Manager that can distribute jobs to players and count time. Have fun!
+This is a live action murder mystery game that resembles Werewolf, Mafioso, AmongUs, Dracula and other games where one player is a traitor and others try to catch him. Arduino project is for a Manager that can distribute tasks to players and count time. Have fun!
 
 # To build the manager you will need
 - Arduino UNO
