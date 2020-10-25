@@ -9,7 +9,7 @@ This is a live action murder mystery game that resembles Werewolf, Mafioso, Amon
 - Four digit display (I used TM1637)
 - A button
 - Piezo, if you want it to make a sound
-- Powersource, I used a power bank with 5V / 2.1A output to make the Manager portable.
+- Powersource (I used a power bank with 5V / 2.1A output to make the Manager portable)
 
 # Included are also
 - game rules in Finnish
